@@ -1,2 +1,1 @@
-# michaelcode
-个人java项目，michael出品，必出精品
+热爱编程，热爱java，相信科技能够改变生活！
